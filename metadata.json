@@ -1,0 +1,8 @@
+{
+  "name": "Remix Order WhatsApp Confirmation Manager",
+  "description": "تطبيق ويب احترافي لإدارة وتأكيد أوردرات المتاجر الإلكترونية عبر واتساب وقراءة ملفات Excel محلياً",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
